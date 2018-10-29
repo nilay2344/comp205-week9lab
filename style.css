@@ -1,0 +1,16 @@
+.big-font h1 {
+  font-size:50px;
+
+}
+
+
+
+
+
+p {
+   color: blue;
+
+}
+p.large-text {
+    font-size: 50px;
+}
